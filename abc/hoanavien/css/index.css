@@ -1,0 +1,160 @@
+@media (min-width: 770px) {
+    #header-seach{
+    	margin-top: 7px;
+    }
+    #header-top{
+    	height: 50px;
+    }
+}
+@media (min-width: 320px) {
+    #form-seach input{
+    	width: 200px;
+    	float: left;
+    }
+    #form-seach button{
+    	
+    }
+    #header-top{
+    	height: 50px
+    }
+
+}
+#header-top{
+	margin-bottom: 0px;
+}
+#header-center{
+	background-color: red;
+	height: 176px;
+}
+#header-banner{
+	    height: 50px;
+    background-color: #222222;
+    margin-left: 285px;
+    margin-top: 126px;
+}
+#navbar-menu{
+	    border: none;
+    padding-top: 6px;
+    padding-left: 5px;
+}
+#navbar-menu li{
+	width:120px;
+}
+#center{
+	background-color: #BCBCBC;
+	height: 490px;
+	margin-bottom: 0px;
+}
+#myCarousel{
+	padding-top: 50px;
+	height: 480px;
+}
+#myCarousel2{
+	background-color: black;
+}
+#carousel-inner{
+	height: 430px;
+}
+#carousel-inner1 img{
+	width: 1014px;
+	height: 355px;
+}
+#carousel-inner2{
+	padding-left: 25px;
+	    margin-top: 20px;
+    margin-bottom: 20px;
+}
+#carousel-inner2 img{
+	    width: 350px;
+    height: 165px;
+    float: left;
+    padding-left: 38px;
+}
+#article{
+	height: 770px;
+    padding-top: 50px;
+   background-color: #F2F4F3;
+}
+#content-article{
+	   height: 730px;
+        
+    margin-left: 170px;
+    margin-right: 170px;
+}
+#menu-article{
+	height: 280px;
+}
+
+#menu-article-item{
+	width: 250px;
+    height: 215px;
+    padding-left: 10px;
+    float: left;
+}
+#title-menu-article-item{
+	padding-left: 45px;
+}
+#menu-article-item a{
+	color: red;
+}
+#newfeeds{
+	width: 500px;
+	height: 370px;
+	    margin-left: 15px;
+	    float: left;
+}
+#images-newfeeds{
+	float: left;
+    padding-right: 12px;
+}
+#newsfeeds1{
+	padding-top: 15px;
+}
+#video{
+	    
+    width: 475px;
+    height: 400px;
+    float: left;
+}
+#contact-email{
+	width: 100%;
+	background-color: #C4C4C7;
+	height: 50px;
+}
+#new-email{
+	padding-left: 75px;
+    padding-top: 15px;
+}
+#icon img{
+	    width: 35px;
+    height: 35px;
+}
+#abc{
+	    float: left;
+    padding-left: 110px;
+    width: 980px;
+}
+#icon{
+	padding-top: 10px;
+}
+#content-footer{
+	background-color:black;
+	height: 225px;
+}
+#content-footer a{
+	color: white;
+}
+#content-footer h3{
+	color: white;
+}
+#content-footer p{
+	color: white;
+}
+#conntent-footer1{
+	    margin-left: 165px;
+}
+#info{
+	    float: left;
+    width: 800px;
+    padding-top: 10px;
+}

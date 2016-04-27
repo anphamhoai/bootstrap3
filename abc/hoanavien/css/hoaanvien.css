@@ -1,0 +1,31 @@
+#header-top{
+	background-color: black;
+}
+#header-top a{
+	color:white;
+}
+#select-nav{
+	border: none;
+    width: 15px;
+    background-color: black;
+}
+#info ul{
+	border: none;
+}
+#header-seach{
+	padding-top: 3px;
+}
+#header-content{
+	background-color: #E44848;
+}
+#header-center{
+	height: 60px
+}
+#header-left{
+	float: left;
+}
+#header-menu{
+
+}
+#header-content{
+}
